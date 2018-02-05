@@ -28,8 +28,13 @@ write_to_CSV.py  (main)
 schema.py  (describes schema used to translate .csv into SQLite .db)
 
 (the following scripts audit and update select datafields:)
+
 housenumber_update2.py
+
 import phone_update2.py
+
 import email_update2.py
+
 import source_update2.py
+
 import postcode_update2.py
